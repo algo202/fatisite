@@ -1,0 +1,33 @@
+<html>
+<title>My HandBall site</title>
+<body style="font-family:sans-serif;">
+<header> 
+    <img src="https://www.lopinion.ma/photo/art/grande/57696393-42712730.jpg?v=1626270384"width"30px" height="30px">
+<h1 style="background-color:lightblue">   HandBall World</h1>
+</header>
+<main>
+<p>Welcome to the world of HandBall! Explore the latest games, players, and stats.</p>
+<img src="https://www.lopinion.ma/photo/art/grande/57696393-42712730.jpg?v=1626270384" alt="HandBahttps:/ll Image" style="width:300px;">
+<table style="border: 1px solid black; border-collapse: collapse">
+<tr style="background-color: lightblue;">
+<td>Type of Training</td>
+<td>Details</td>
+<td>Price</td>
+</tr>
+<tr>
+<td>Shooting</td>
+<td>Learn jump shots and 3-pointers</td>
+<td>From $100/hr</td>
+</tr>
+<tr>
+<td>Dribbling</td>
+<td>Master ball handling skills</td>
+<td>From $30/hr</td>
+</tr>
+</table>
+</main>
+<footer>
+<p style="background-color:lightblue">© 2025 HandBall World</p>
+</footer>
+</body>
+</html>
